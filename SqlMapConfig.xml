@@ -24,6 +24,12 @@
     <mappers>
         <package name="cn.itcast.dao"></package>
     </mappers>
+	<mappers>
+        <package name="cn."></package>
+    </mappers>
+	<mappers>
+        <package name="cn.itcast"></package>
+    </mappers>
 
 
 </configuration>
